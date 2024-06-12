@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luca-jakobson-249a44298/)
 
-I'm a Argentinean guy who has a curious mind. I'd like to learn something new everyday. I'm a **PhD in Applied Maths** and currently a **Data Scientist**.
+I'm a Argentinean guy who has a curious mind. I'd like to learn something new everyday.
 
 - 🌱 I am a systems engineering student
 - 😍 My hobbies are going to the gym, watch movies
