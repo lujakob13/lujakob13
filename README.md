@@ -4,8 +4,8 @@
 
 I'm a Argentinean guy who has a curious mind. I'd like to learn something new everyday. I'm a **PhD in Applied Maths** and currently a **Data Scientist**.
 
-- 🌱 I’m currently learning *Advanced Machine Learning* & *Data Science* (and enjoying _Web Dev_).
-- 😍 My hobbies are my hobbies are going to the gym
+- 🌱 I am a systems engineering student
+- 😍 My hobbies are going to the gym, watch movies
 - 💌 Contact me at "luca081104@gmail.com".
 
 Technologies I've been learning and using so far :
